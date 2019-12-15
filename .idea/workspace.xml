@@ -40,7 +40,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
+            <state relative-caret-position="40">
               <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
@@ -158,12 +158,12 @@
       <option name="presentableId" value="Default" />
       <updated>1576361782571</updated>
       <workItem from="1576361800850" duration="4189000" />
-      <workItem from="1576438546099" duration="1533000" />
+      <workItem from="1576438546099" duration="1787000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5722000" />
+    <option name="totallyTimeSpent" value="5976000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -176,15 +176,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49861497" visible="true" weight="0.13913691" />
       <window_info id="Structure" order="1" sideWeight="0.50138503" side_tool="true" weight="0.13913691" />
       <window_info id="Favorites" order="2" sideWeight="0.50138503" side_tool="true" weight="0.13913691" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="1" sideWeight="0.5811012" visible="true" weight="0.24102564" />
-      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.4985119" weight="0.32820514" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.41889882" side_tool="true" visible="true" weight="0.24102564" />
+      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.5811012" weight="0.53675216" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" sideWeight="0.4985119" visible="true" weight="0.7042735" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.41889882" side_tool="true" weight="0.48205128" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Run" order="6" />
@@ -213,6 +212,17 @@
               <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
                 <collection />
               </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
               <option name="COLUMN_ORDER">
                 <list>
                   <option value="0" />
@@ -222,6 +232,26 @@
                 </list>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
@@ -268,7 +298,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
+        <state relative-caret-position="40">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
