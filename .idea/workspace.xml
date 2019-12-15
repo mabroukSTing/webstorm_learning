@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88d9b60c-6592-4fa4-ab24-7511cfeccadf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/book.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/g.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tes2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3.html" afterDir="false" />
-    </list>
+    <list default="true" id="88d9b60c-6592-4fa4-ab24-7511cfeccadf" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -46,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+            <state relative-caret-position="384">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
               </folding>
@@ -103,7 +97,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,11 +108,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/4HTM_allfiles/book_apps/ch02/javascript_jquery.html" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -163,12 +158,12 @@
       <option name="presentableId" value="Default" />
       <updated>1576361782571</updated>
       <workItem from="1576361800850" duration="4189000" />
-      <workItem from="1576438546099" duration="1152000" />
+      <workItem from="1576438546099" duration="1533000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5341000" />
+    <option name="totallyTimeSpent" value="5722000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -181,18 +176,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49861497" visible="true" weight="0.13913691" />
       <window_info id="Structure" order="1" sideWeight="0.50138503" side_tool="true" weight="0.13913691" />
       <window_info id="Favorites" order="2" sideWeight="0.50138503" side_tool="true" weight="0.13913691" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32991204" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="3" sideWeight="0.5014881" side_tool="true" visible="true" weight="0.53162396" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="1" sideWeight="0.5811012" visible="true" weight="0.24102564" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.4985119" weight="0.32820514" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.41889882" side_tool="true" visible="true" weight="0.24102564" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Run" order="6" />
-      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.4985119" visible="true" weight="0.53162396" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.4985119" weight="0.53162396" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="GraphQL" order="10" weight="0.32991204" />
@@ -205,14 +201,33 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/g.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" selection-start-line="1" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tes2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -244,10 +259,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/g.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        <state relative-caret-position="384">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
           </folding>
